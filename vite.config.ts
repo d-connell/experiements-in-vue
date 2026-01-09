@@ -3,6 +3,6 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "experiments-in-vue",
+  base: "/experiments-in-vue/",
   plugins: [vue()],
 });
